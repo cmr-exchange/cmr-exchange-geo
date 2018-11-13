@@ -15,7 +15,7 @@
        ns
        "\u001B[35m]\u001B[33m λ\u001B[m=> "))
 
-(defproject gov.nasa.earthdata/cmr-exchange-geo "0.1.0"
+(defproject gov.nasa.earthdata/cmr-exchange-geo "0.2.0-SNAPSHOT"
   :description "A general geographic library that unifies separate libs under a common interface"
   :url "https://github.com/cmr-exchange/cmr-exchange-geo"
   :license {
